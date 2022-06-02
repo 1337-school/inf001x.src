@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>650</x>
+      <y>0</y>
+      <w>360</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>Введение</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>630</x>
+      <y>330</y>
+      <w>450</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>Погружение
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>660</x>
+      <y>370</y>
+      <w>390</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>3. Устройство компьютеров и операционные системы
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>670</x>
+      <y>110</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>2. История компьютерной техники
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>670</x>
+      <y>40</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>1. Информация и её категории
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>690</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>4. ip-сети и протоколы
+bg=green
+group=10</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>670</x>
+      <y>580</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>5. Хранение данных
+group=2
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>660</x>
+      <y>430</y>
+      <w>390</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>6. Виртуальные машины и контейнеры
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>670</x>
+      <y>630</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>7. Защита данных и шифрование
+group=2
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>740</x>
+      <y>970</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>8. Языки программирования
+group=1
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>740</x>
+      <y>1020</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>9. Python
+group=1
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>670</x>
+      <y>680</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>10. Работа с данными, базы данных
+group=2
+bg=green</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>640</x>
+      <y>540</y>
+      <w>380</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>Данные
+--
+
+group=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>720</x>
+      <y>930</y>
+      <w>360</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>Языки программирования
+--
+
+group=1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1170</x>
+      <y>650</y>
+      <w>360</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>Интернет и сайты
+--
+
+group=10</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>740</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>11. Поисковые системы
+bg=green
+group=10</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>970</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>x0. Блокчейн
+bg=green
+group=6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>1020</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>x1. Распределенные вычисления
+bg=green
+group=6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>1070</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>x3. Искусственный интеллект
+bg=orange
+group=6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1170</x>
+      <y>930</y>
+      <w>360</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>Новые технологии
+--
+
+group=6</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>40</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Текст и шрифты
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>100</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Редакторы WYSIWYG (Word)
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>170</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Специализированные редакторы текстов
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1710</x>
+      <y>0</y>
+      <w>380</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>Работа с текстом
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>840</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Сайты и HTML
+bg=orange
+group=10</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1710</x>
+      <y>270</y>
+      <w>380</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>Работа с данными
+--
+
+group=8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>310</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Данные и типы данных
+bg=orange
+group=8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>360</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Электронные таблицы (Excel)
+bg=orange
+group=8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1720</x>
+      <y>540</y>
+      <w>380</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>Работа с графикой
+--
+
+group=9</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1750</x>
+      <y>580</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Зрение, растровая и векторная графика
+bg=orange
+group=9</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1750</x>
+      <y>630</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Растровые редакторы
+bg=orange
+group=9</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1750</x>
+      <y>680</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Векторные редакторы
+bg=orange
+group=9</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1720</x>
+      <y>770</y>
+      <w>380</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>Работа со звуком и видео
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>810</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Звук и движущиеся изображения
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>860</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Обработка звука
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>910</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Обработка видео
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1720</x>
+      <y>990</y>
+      <w>370</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>3D
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>1030</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Трехмерная графика
+bg=orange
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>1130</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Моделирование в 3D
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1740</x>
+      <y>1080</y>
+      <w>330</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Редакторы трехмерной графики
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>1140</x>
+      <y>320</y>
+      <w>480</w>
+      <h>260</h>
+    </coordinates>
+    <panel_attributes>Работа с компьютером
+--
+
+group=11</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1160</x>
+      <y>430</y>
+      <w>440</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Настройка компьютера, установка и установка программ
+bg=orange
+
+group=11</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1160</x>
+      <y>370</y>
+      <w>440</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Интерфейсы операционных систем
+bg=orange
+
+group=11</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1160</x>
+      <y>510</y>
+      <w>440</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Безопасная работа с компьютером
+bg=orange
+group=11</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>790</y>
+      <w>320</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>?. Средства коммуникаций
+bg=orange
+group=10</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>830</x>
+      <y>70</y>
+      <w>30</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>830</x>
+      <y>140</y>
+      <w>30</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;230.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1040</x>
+      <y>380</y>
+      <w>140</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>120.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1360</x>
+      <y>400</y>
+      <w>30</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+group=11</panel_attributes>
+    <additional_attributes>10.0;30.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1040</x>
+      <y>440</y>
+      <w>140</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;120.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>980</x>
+      <y>50</y>
+      <w>780</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>760.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>980</x>
+      <y>440</y>
+      <w>200</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>180.0;10.0;10.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1590</x>
+      <y>110</y>
+      <w>170</w>
+      <h>360</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>150.0;10.0;10.0;340.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>980</x>
+      <y>690</y>
+      <w>230</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>210.0;170.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>0</x>
+      <y>10</y>
+      <w>540</w>
+      <h>1570</h>
+    </coordinates>
+    <panel_attributes>type=Package
+Введение
+	Информация и её виды
+	История компьютерной техники
+Технические составляющие
+	Устройство компьютеров
+	Операционные системы
+	ip-сети и протоколы
+	Хранение данных
+Работа с компьютером
+	Интерфейсы операционных систем
+	Настройка компьютера, установка и удаление программ
+	Виртуальные машины и контейнеры
+Безопасность
+	Защита данных и шифрование
+	Безопасная работа с компьютером
+Интернет и сайты
+	Поисковые системы
+	Средства коммуникаций
+	Сайты и HTML
+Работа с текстом
+	Текст и шрифты
+	Редакторы WYSIWYG (Word)
+	Альтернативные способы работы с текстом
+Работа с данными
+	Данные и их типы
+	Электронные таблицы (Excel)
+Работа с 2d графикой
+	Зрение, растровая и векторная графика
+	Растровые редакторы
+	Векторные редакторы
+Работа со звуком и видео
+	Звук и движущиеся изображения
+	Обработка звука
+	Обработка видео
+Работа с 3d графикой
+	Трехмерная графика
+	Редакторы трехмерной графики
+	Моделирование в 3d
+Программирование
+	Языки программирования
+	Python
+Новые технологии
+	Блокчейн
+	Распределенные вычисления
+	Искусственный интеллект
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
